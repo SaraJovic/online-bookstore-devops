@@ -1,0 +1,49 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.eclipse/
+.classpath
+.project
+.settings/
+
+# Spring Boot
+*.log
+logs/
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# SonarQube
+.sonar/
+sonar-project.properties
+
+# Test reports
+**/surefire-reports/
+**/failsafe-reports/
